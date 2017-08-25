@@ -113,6 +113,6 @@ public class ArithemticUtil {
 		
 		int result = (int) total;
 		System.out.println(result);
-
+		System.out.println(num);
 	}
 }
