@@ -102,7 +102,7 @@ public class ArithemticUtil {
 		
 		//ì³²¨ÄÇÆõÊý 
 		
-		int n = 50;
+		int n = 100;
 		
 		long start = System.currentTimeMillis();
 		long total = calcWithoutRecursion1(n);
