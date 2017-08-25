@@ -103,7 +103,7 @@ public class ArithemticUtil {
 		//ì³²¨ÄÇÆõÊý 
 		
 		int n = 100;
-		
+		int num = 200;
 		long start = System.currentTimeMillis();
 		long total = calcWithoutRecursion1(n);
 		long end = System.currentTimeMillis();
